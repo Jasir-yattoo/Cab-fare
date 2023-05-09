@@ -1,3 +1,3 @@
 # Cab-fare
 
-# Predicting Cab fare using Machine learining models
+## Predicting Cab fare using Machine learining models
